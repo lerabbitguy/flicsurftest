@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flicsurftest/static/css/main.5e8ac6ff.css",
+    "main.js": "/flicsurftest/static/js/main.09a9fd4a.js",
+    "static/media/Nexa-Heavy.ttf": "/flicsurftest/static/media/Nexa-Heavy.13e16a1c3c48dd492fa9.ttf",
+    "static/media/Nexa-ExtraLight.ttf": "/flicsurftest/static/media/Nexa-ExtraLight.2e3441a81090afda5785.ttf",
+    "index.html": "/flicsurftest/index.html",
+    "main.5e8ac6ff.css.map": "/flicsurftest/static/css/main.5e8ac6ff.css.map",
+    "main.09a9fd4a.js.map": "/flicsurftest/static/js/main.09a9fd4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e8ac6ff.css",
+    "static/js/main.09a9fd4a.js"
+  ]
+}
